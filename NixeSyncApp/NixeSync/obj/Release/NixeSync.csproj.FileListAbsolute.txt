@@ -1,0 +1,9 @@
+C:\Users\luis.rosell\OneDrive - Sage Software, Inc\Desktop\NixeSync\NixeSync\bin\Release\NixeSync.exe
+C:\Users\luis.rosell\OneDrive - Sage Software, Inc\Desktop\NixeSync\NixeSync\bin\Release\NixeSync.pdb
+C:\Users\luis.rosell\OneDrive - Sage Software, Inc\Desktop\NixeSync\NixeSync\obj\Release\NixeSync.Form1.resources
+C:\Users\luis.rosell\OneDrive - Sage Software, Inc\Desktop\NixeSync\NixeSync\obj\Release\NixeSync.Properties.Resources.resources
+C:\Users\luis.rosell\OneDrive - Sage Software, Inc\Desktop\NixeSync\NixeSync\obj\Release\NixeSync.csproj.GenerateResource.cache
+C:\Users\luis.rosell\OneDrive - Sage Software, Inc\Desktop\NixeSync\NixeSync\obj\Release\NixeSync.csproj.CoreCompileInputs.cache
+C:\Users\luis.rosell\OneDrive - Sage Software, Inc\Desktop\NixeSync\NixeSync\obj\Release\NixeSync.exe
+C:\Users\luis.rosell\OneDrive - Sage Software, Inc\Desktop\NixeSync\NixeSync\obj\Release\NixeSync.pdb
+C:\Users\luis.rosell\OneDrive - Sage Software, Inc\Desktop\NixeSync\NixeSync\obj\Release\NixeSync.csprojAssemblyReference.cache
